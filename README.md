@@ -37,15 +37,3 @@
 ## 기술 스택
 
 ![기술스택](./nftmarket/public/imgs/readme_skills.png)
-
-## 구현
-
-#### 사진사진
-
-#
-
-## 라이센스
-
----
-
-MIT MINTCHODAN
