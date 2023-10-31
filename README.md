@@ -16,6 +16,8 @@
 
 #### - 누구나 쉽고, 즐겁게, 안전하게 NFT를 사고 팔 수 있는 홈페이지 제작
 
+![민초 메인](./nftmarket/public/imgs/mainPage.png)
+
 ## 프로젝트 목적
 
 #### - React, Node.js(express), DB 활용 및 Metamask & Geth & Pinata 등을 결합한 BlockChain 거래소 코딩으로 이전에 학습한 내용 복습
