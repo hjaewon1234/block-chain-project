@@ -2,7 +2,7 @@
 
 # 민초단의 민초 NFT market 프로젝트
 
-![민초 메인](./nftmarket/public/imgs/mintChoLogo2.png)
+![민초 메인](./nftmarket/public/imgs/MintChoLogo2.png)
 
 # 프로젝트 소개
 
