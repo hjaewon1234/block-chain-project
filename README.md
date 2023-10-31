@@ -2,7 +2,13 @@
 
 # 민초단의 민초 NFT market 프로젝트
 
-![민초 메인](./nftmarket/public/imgs/mintChoLogo2.png)
+# 팀 소개
+
+### 팀장 : 염예나
+
+### 팀원 : 신상목, 장정현, 허재원
+
+![민초 메인](./nftmarket/public/imgs/MintChoLogo2.png)
 
 # 프로젝트 소개
 
@@ -31,29 +37,3 @@
 ## 기술 스택
 
 ![기술스택](./nftmarket/public/imgs/readme_skills.png)
-
-## 구현
-
-#### 사진사진
-
-## 이슈
-
-### - 어쩌구
-
-### ㄴsolution : 어쩌구
-
----
-
-# 팀 소개
-
-### 팀장 : 염예나
-
-### 팀원 : 신상목, 장정현, 허재원
-
-#
-
-## 라이센스
-
----
-
-MIT MINTCHODAN
